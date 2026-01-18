@@ -272,8 +272,6 @@ A VM can provide CPU, RAM, disk, and network but **cannot simulate all these har
 
 ---
 
-If you want, the **next step** is a **hands-on guide** to set up a Windows VM on your Mac for testing, including snapshots, networking, and app installation, so you can start testing like a professional DevOps engineer.
-
 ---
 
 If you want, I can now **also create a visual diagram showing UTM → VM → ISO → Container relationships**, which makes this mental model stick permanently.
